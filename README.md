@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Josue Vele</h1>
+<h3 align="center">🚀 Full Stack Developer | Passionate about building modern web applications</h3>
 
-<!--
-**JosueVele77/JosueVele77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I enjoy working on both **Frontend & Backend**
+- 🌱 Currently learning **Python 🐍 & React ⚛️**
+- ⚡ Always improving my skills and exploring new technologies
+- 🎯 Goal: Become a professional full stack developer
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,cpp,python,mysql,postgres,docker,git,aws,oracle" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+- Python 🐍
+- React ⚛️
+- Clean Code & Best Practices
+
+---
+
+### 💡 Fun Fact
+
+> I love turning ideas into real-world applications 💡✨
