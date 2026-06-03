@@ -12,22 +12,13 @@
 
 ## 👨‍💻 About Me
 
-```js
-const josue = {
-  name: "Josue Vele",
-  role: "Full Stack Developer",
-  passion: "Building modern web applications",
-  currentlyLearning: ["Python", "React", "Clean Code"],
-  goal: "Become a professional Full Stack Developer",
-  mindset: "Always learning, improving and creating"
-};
-```
-
-- 💻 I enjoy working on both **Frontend & Backend**
-- 🌱 Currently learning **Python 🐍 & React ⚛️**
-- ⚡ Always improving my skills and exploring new technologies
-- 🎯 Goal: Become a professional **Full Stack Developer**
-- 💡 I love turning ideas into real-world applications
+<p align="center">
+  💻 I enjoy working on both <b>Frontend & Backend</b><br>
+  🌱 Currently learning <b>Python 🐍 & React ⚛️</b><br>
+  ⚡ Always improving my skills and exploring new technologies<br>
+  🎯 Goal: Become a professional <b>Full Stack Developer</b><br>
+  💡 I love turning ideas into real-world applications
+</p>
 
 ---
 
@@ -47,7 +38,11 @@ const josue = {
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,cpp,python,mysql,postgres,docker,git,github,aws,oracle,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,java,cpp,python,mysql,postgres,docker,git,github,aws,vscode,idea" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
@@ -55,8 +50,11 @@ const josue = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josueasifuela&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueasifuela&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josueasifuela&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueasifuela&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -64,7 +62,7 @@ const josue = {
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=josueasifuela&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=josueasifuela&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -75,11 +73,12 @@ const josue = {
   <img src="https://skillicons.dev/icons?i=python,react,docker,aws" />
 </p>
 
-- Python 🐍
-- React ⚛️
-- Clean Code & Best Practices
-- Backend development
-- Cloud basics
+<p align="center">
+  Python 🐍 &nbsp; | &nbsp;
+  React ⚛️ &nbsp; | &nbsp;
+  Clean Code &nbsp; | &nbsp;
+  Backend Development
+</p>
 
 ---
 
@@ -93,7 +92,9 @@ const josue = {
 
 ## 💡 Fun Fact
 
-> I love turning ideas into real-world applications 💡✨
+<p align="center">
+  I love turning ideas into real-world applications 💡✨
+</p>
 
 ---
 
