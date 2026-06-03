@@ -85,7 +85,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/josueasifuela/josueasifuela/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/JosueVele77/JosueVele77/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
