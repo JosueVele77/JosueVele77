@@ -25,7 +25,7 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/josueasifuela">
+  <a href="https://github.com/JosueVele77">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:josueasifuela@gmail.com">
@@ -99,5 +99,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josueasifuela&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JosueVele77&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
