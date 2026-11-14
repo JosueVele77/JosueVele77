@@ -1,18 +1,18 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00D4FF&height=220&section=header&text=Josue%20Vele&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF8C00,50:FFD700,75:00E5FF,100:7F00FF&height=230&section=header&text=Josue%20Vele&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/JosueVele77">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Josue+Vele;Full+Stack+Developer+%F0%9F%9A%80;Building+with+React+%2B+Next.js+%E2%9A%9B%EF%B8%8F;Shipping+APIs+with+Python+%26+Node+%F0%9F%90%8D;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Josue+Vele;Full+Stack+Developer+%F0%9F%9A%80;Building+with+React+%2B+Next.js+%E2%9A%9B%EF%B8%8F;Shipping+APIs+with+Python+%26+Node+%F0%9F%90%8D;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/JosueVele77?tab=followers"><img src="https://img.shields.io/github/followers/JosueVele77?label=Followers&style=for-the-badge&color=7F5AF0&labelColor=0D1117&logo=github" alt="followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=JosueVele77&label=Profile%20views&color=2CB67D&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
-  <a href="mailto:josueasifuela@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collaborate-00D4FF?style=for-the-badge&labelColor=0D1117" alt="open to collaborate"/></a>
+  <a href="https://github.com/JosueVele77?tab=followers"><img src="https://img.shields.io/github/followers/JosueVele77?label=Followers&style=for-the-badge&color=FF0080&labelColor=0D1117&logo=github" alt="followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=JosueVele77&label=Profile%20views&color=FFD700&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
+  <a href="mailto:josueasifuela@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collaborate-00E5FF?style=for-the-badge&labelColor=0D1117" alt="open to collaborate"/></a>
 </p>
 
 ---
@@ -76,16 +76,29 @@ const josue = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosueVele77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueVele77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JosueVele77&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JosueVele77&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JosueVele77&hide_border=true&background=0D1117&stroke=30363D&ring=FF0080&fire=FF8C00&currStreakNum=FFFFFF&currStreakLabel=FFD700&sideNums=00E5FF&sideLabels=7F00FF&dates=8B949E" alt="GitHub streak" />
+</p>
+
+---
+
+## 🌈 3D Contributions
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 ---
@@ -114,10 +127,10 @@ const josue = {
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8C;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8C;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="footer typing" />
 </p>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2CB67D,100:7F5AF0&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,25:00E5FF,50:FFD700,75:FF8C00,100:FF0080&height=130&section=footer" alt="footer" />
 </p>
